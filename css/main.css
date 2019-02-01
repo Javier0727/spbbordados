@@ -1,9 +1,10 @@
 .portada{
-    /* background-color: rgb(30, 49, 160); */
-    background: url(../media/portada.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6),
+    rgba(0, 0, 0, 0.6)), url(../media/port.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     height: 100vh;
+    background-attachment: fixed;
     color: white;
 }
