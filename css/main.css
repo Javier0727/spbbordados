@@ -1,3 +1,8 @@
-.color1{
-    background-color: rgb(30, 49, 160);
+.princ{
+    /* background-color: rgb(30, 49, 160); */
+    background: url(../media/portada.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    height: 100vh;
 }
